@@ -268,4 +268,5 @@ class Krizec_krozec():
 
 root = Tk()
 aplikacija = Krizec_krozec(root)
+root.title("Križec krožec")
 root.mainloop()
